@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 Socials: [Instagram](instagram.com/faisalsaifii)
+- 📫 Socials: [Instagram](https://instagram.com/faisalsaifii)
 - 🔭 I’m currently pursuing B.Tech from [IPEC](https://www.ipec.org.in/)
 
 <!---
