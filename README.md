@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @faisalsaifii
+- 👋 Hi, I’m Faisal
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me Instagram: @faisalsaifii
+- 📫 Socials: [Instagram](instagram.com/faisalsaifii)
+- 🔭 I’m currently pursuing B.Tech from [IPEC](https://www.ipec.org.in/)
 
 <!---
 faisalsaifii/faisalsaifii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
