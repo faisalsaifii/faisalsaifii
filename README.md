@@ -9,5 +9,5 @@
 ## SOCIALS
 
 <a href="https://www.instagram.com/faisalsaifii">
-    <img src="./assets/icons/instagram.png" height= 50/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Instagram.png?raw=true" height= 50/>
 </a>
