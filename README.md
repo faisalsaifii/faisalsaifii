@@ -12,5 +12,5 @@
     <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Instagram.png?raw=true" height= 50/>
 </a>
 <a href="https://www.twitter.com/faisalsaifiii">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/twitter.png?raw=true" height= 50/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Twitter.svg?raw=true" height= 50/>
 </a>
