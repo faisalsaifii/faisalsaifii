@@ -12,22 +12,27 @@
     <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Instagram.png?raw=true" height= 35/>
 </a>
 <a href="https://www.twitter.com/faisalsaifiii">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Twitter.svg?raw=true" height= 35/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Twitter.svg?raw=true" height= 35/>
 </a>
 <a href="https://www.facebook.com/FaisalSaifiii/">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Facebook.svg?raw=true" height= 35/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Facebook.svg?raw=true" height= 35/>
 </a>
 <a href="https://www.fiverr.com/faisalsaifii">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Fiverr.svg?raw=true" height= 35/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Fiverr.svg?raw=true" height= 35/>
 </a>
 <a href="https://www.linkedin.com/in/faisal-saifi-91031b1a0/">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Linkedin.svg?raw=true" height= 35/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Linkedin.svg?raw=true" height= 35/>
 </a>
 <a href="https://www.reddit.com/user/FaisalSaifii">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Reddit.svg?raw=true" height= 35/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Reddit.svg?raw=true" height= 35/>
 </a>
 <a href="https://www.twitch.tv/faisalsaifii">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Twitch.svg?raw=true" height= 35/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Twitch.svg?raw=true" height= 35/>
 </a>
 
-#
+# SKILLS
+
+<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/CPP.svg?raw=true" height= 35/>
+<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Python.svg?raw=true" height= 35/>
+<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/React.svg?raw=true" height= 35/>
+<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/Nodejs.svg?raw=true" height= 35/>
