@@ -9,7 +9,7 @@
 # SOCIALS
 
 <a href="https://www.instagram.com/faisalsaifii">
-    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/socials/icons/Instagram.png?raw=true" height= 35/>
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/socials/icons/Instagram.svg?raw=true" height= 35/>
 </a>
 <a href="https://www.twitter.com/faisalsaifiii">
     <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Twitter.svg?raw=true" height= 35/>
@@ -32,7 +32,4 @@
 
 # SKILLS
 
-<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 35/>
-<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 35/>
-<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 35/>
-<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 35/>
+<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 35/>
