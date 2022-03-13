@@ -1,11 +1,3 @@
-
-# 👋 Hi, I’m Faisal
-
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on Web Development
-- 🔭 I’m currently pursuing B.Tech from [IPEC](https://www.ipec.org.in/)
-
 # SOCIALS
 
 <a href="https://www.instagram.com/faisalsaifii">
@@ -30,6 +22,11 @@
     <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Twitch.svg?raw=true" height= 35/>
 </a>
 
+---
 # SKILLS
 
-<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 35/>
+<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/c.png?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/css.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/html.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/java.svg?raw=true" height= 35/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/unity.png?raw=true" height= 35/>
+
+---
+# EDUCATION
+
