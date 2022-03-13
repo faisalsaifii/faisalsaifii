@@ -40,6 +40,6 @@
  ![Visitor Count](https://profile-counter.glitch.me/faisalsaifii/count.svg)
 
 ---
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsaifii&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsaifii&theme=radical" />
+<p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsaifii&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsaifii&theme=radical" />
+</p>
