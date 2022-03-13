@@ -24,17 +24,18 @@
 </p>
 
 ## **SKILLS**
-
+<p>
 <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 30/><img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/c.png?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/css.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/html.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/java.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/unity.png?raw=true" height= 30/>
+</p>
 
-# EDUCATION
-
+## **EDUCATION**
 - 10+2 passed from Bharti Public School
 - B.Tech. in I.T. from Inderprastha Engineering College (2020-2024)
+<br>
 
-# VISITOR COUNT
+## **VISITOR COUNT**
 
- ![Visitor Count](https://profile-counter.glitch.me/faisalsaifii/count.svg)
+<img src="https://profile-counter.glitch.me/faisalsaifii/count.svg">
 
 <p>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsaifii&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsaifii&theme=radical" />
