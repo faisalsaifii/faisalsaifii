@@ -1,5 +1,3 @@
-# 👋 Hello There
-
 # SOCIALS
 
 <a href="https://www.instagram.com/faisalsaifii">
@@ -32,3 +30,9 @@
 ---
 # EDUCATION
 
+- 10+2 passed from Bharti Public School
+- B.Tech. in I.T. from Inderprastha Engineering College (2020-2024)
+
+---
+
+# ![](https://komarev.com/ghpvc/?username=faisalsaifii)
