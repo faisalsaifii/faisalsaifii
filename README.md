@@ -1,4 +1,4 @@
-## **SOCIALS:**
+## **SOCIALS**
 <p>
 <a href="https://www.instagram.com/faisalsaifii">
     <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Instagram.svg?raw=true" height= 30/>
@@ -25,13 +25,12 @@
 
 ## **SKILLS**
 <p>
-<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 30/><img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/c.png?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/css.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/html.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/java.svg?raw=true" height= 30/> <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/unity.png?raw=true" height= 30/>
+<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/c.png?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/css.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/html.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/java.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/unity.png?raw=true" height= 30/>
 </p>
 
 ## **EDUCATION**
 - 10+2 passed from Bharti Public School
 - B.Tech. in I.T. from Inderprastha Engineering College (2020-2024)
-<br>
 
 ## **VISITOR COUNT**
 
