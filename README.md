@@ -12,7 +12,7 @@
 <a href="https://www.fiverr.com/faisalsaifii">
     <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Fiverr.svg?raw=true" height= 30/>
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/faisal-saifi-91031b1a0/">
+<a href="https://www.linkedin.com/in/faisalsaifii/">
     <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/socials/Linkedin.svg?raw=true" height= 30/>
 </a>&nbsp;
 <a href="https://www.reddit.com/user/FaisalSaifii">
