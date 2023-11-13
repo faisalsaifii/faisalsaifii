@@ -41,7 +41,11 @@
 
 ## **EXPERIENCE**
 
--   <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/experience/juspay.png?raw=true" height= 15/> Juspay
+<p>
+<a href="https://juspay.in">
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/experience/juspay.png?raw=true" height= 30/>
+</a>
+</p>
 
 ## **EDUCATION**
 
