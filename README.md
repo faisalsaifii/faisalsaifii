@@ -49,8 +49,11 @@
 
 ## **EDUCATION**
 
--   10+2 passed from Bharti Public School
--   B.Tech. in I.T. from Inderprastha Engineering College (2020-2024)
+<p>
+<a href="https://juspay.in">
+    <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/education/aktu.png?raw=true" height= 30/>
+</a>
+</p>
 
 ## **VISITOR COUNT**
 
