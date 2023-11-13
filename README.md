@@ -39,15 +39,26 @@
 <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/c.png?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/css.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/html.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/java.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/unity.png?raw=true" height= 30/>
 </p>
 
+## **EXPERIENCE**
+
+-   <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/experience/juspay.png?raw=true" height= 15/> Juspay
+
 ## **EDUCATION**
 
-- 10+2 passed from Bharti Public School
-- B.Tech. in I.T. from Inderprastha Engineering College (2020-2024)
+-   10+2 passed from Bharti Public School
+-   B.Tech. in I.T. from Inderprastha Engineering College (2020-2024)
 
 ## **VISITOR COUNT**
 
 <img src="https://profile-counter.glitch.me/faisalsaifii/count.svg">
 
+## **STATISTICS**
+
 <p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsaifii&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsaifii&theme=radical" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsaifii&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /></p><p>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsaifii&theme=radical" />
 </p>
+
+## **SPONSOR ME**
+
+<a href="https://www.buymeacoffee.com/FaisalSaifi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
