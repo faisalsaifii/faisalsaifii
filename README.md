@@ -39,14 +39,6 @@
 <img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/CPP.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Python.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/React.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/Nodejs.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/c.png?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/css.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/html.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/java.svg?raw=true" height= 30/> &nbsp;<img src="https://github.com/faisalsaifii/faisalsaifii/blob/main/assets/icons/skills/unity.png?raw=true" height= 30/>
 </p>
 
-## **VISITOR COUNT**
-
-<img src="https://profile-counter.glitch.me/faisalsaifii/count.svg">
-
 ## **STATISTICS**
 
-<p>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faisalsaifii&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    <span>&nbsp;</span>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsaifii&theme=radical" />
-</p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalsaifii&theme=radical" />
